@@ -30,7 +30,7 @@ PyBer, a ride-sharing app wants to analyze data from January to early May 2019.
 - Fare totals
 - Number of drivers
 
-##### The analysis results were: ![Fare Average by City Type] (analysis/Total_Fares_Summary.png)
+##### The analysis results were: ![Fare Average by City Type](analysis/Total_Fares_Summary.png)
 - Urban cities type has the most consistent usage of ride-sharing and potential to make consistent money per driver.
 - Followed by suburban cites making about half of what urban cities make.
 - Rural cities have a higher fare average than the other city types.
