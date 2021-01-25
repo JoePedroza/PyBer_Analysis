@@ -18,7 +18,7 @@ PyBer, a ride-sharing app wants to analyze data from January to early May 2019.
 - Visual Studio Code, 1.52.1
 
 ## Summary
-### The analysis of Pyber share-riding data (analysis/Pyber_fare_summary.png) show that:
+### The analysis of Pyber share-riding data ![Fare Analysis](analysis/Pyber_fare_summary.png) show that:
 
 #### The three city types were:
 - Urban
